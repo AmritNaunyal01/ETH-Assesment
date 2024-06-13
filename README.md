@@ -1,4 +1,4 @@
-**MyToken Contract**
+# **MyToken Contract**
 This Solidity script exemplifies a basic "MyToken" smart contract, showcasing fundamental token operations such as minting and burning on the Ethereum blockchain. It is designed as an introductory guide for beginners to grasp the essentials of token contracts in Solidity.
 
 **Overview**
