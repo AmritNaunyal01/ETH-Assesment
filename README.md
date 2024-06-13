@@ -72,7 +72,7 @@ Click on the "Deploy" button.
 Interacting with the Contract
 After deployment, you can interact with the contract by invoking the mint and burn functions. For minting tokens, input an address and a value in the mint function. Similarly, for burning tokens, provide an address and a value in the burn function. Ensure the address has sufficient balance before burning tokens.
 
-# **Author **
+# Author 
 Amrit@crafter
 # **License**
 This project is licensed under the MIT License - see the LICENSE file for details.
