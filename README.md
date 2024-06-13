@@ -1,10 +1,10 @@
 # **MyToken Contract**
 This Solidity script exemplifies a basic "MyToken" smart contract, showcasing fundamental token operations such as minting and burning on the Ethereum blockchain. It is designed as an introductory guide for beginners to grasp the essentials of token contracts in Solidity.
 
-**Overview**
+# **Overview**
 This script is a Solidity-based smart contract for Ethereum, defining a token with a specific name, abbreviation, and total supply. It incorporates functions for minting new tokens and burning existing ones. This contract serves as a practical entry point to Solidity development and can be expanded into more sophisticated token projects.
 
-**Requirements**
+# **Requirements**
 The contract includes:
 
 Public variables to store the token's name, abbreviation, and total supply.
@@ -54,8 +54,8 @@ contract MyToken {
     }
 }
 
-**Getting Started**
-**Running the Program**
+# **Getting Started**
+# **Running the Program**
 To execute this contract, you can use Remix, a web-based Solidity IDE. Follow these steps:
 
 Open the Remix IDE at Remix Ethereum.
@@ -72,9 +72,9 @@ Click on the "Deploy" button.
 Interacting with the Contract
 After deployment, you can interact with the contract by invoking the mint and burn functions. For minting tokens, input an address and a value in the mint function. Similarly, for burning tokens, provide an address and a value in the burn function. Ensure the address has sufficient balance before burning tokens.
 
-**Author **
+# **Author **
 Amrit@crafter
-**License**
+# **License**
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Feel free to customize this README file further according to your preferences or additional details about your project.
